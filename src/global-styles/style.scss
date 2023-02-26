@@ -7,9 +7,15 @@
 
 body {
   font-family: 'Roboto', sans-serif;
-  color: var(--color-primary);
+  background-color: var(--mainBackgroundColor);
 }
 
-p {
-  color: var(--color-on-surface);
+h1 {
+  font-size: 48px;
+  font-weight: 500;
+  line-height: 56px;
+}
+
+h2 {
+  
 }

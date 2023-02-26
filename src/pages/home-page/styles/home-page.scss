@@ -1,4 +1,24 @@
-:root {
-    --mainBackgroundColor: #0F162D;
+.homepage-component {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  min-height: 100vh;
+  width: 100%;
 }
 
+.homepage-component-content {
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  height: 100px;
+  justify-content: center;
+  padding: 24px;
+  width: 100%;
+  max-width: 1440px;
+}
+
+.homepage-component-content-titleContainer {
+  width: 50%;
+
+  background-color: red;
+}
