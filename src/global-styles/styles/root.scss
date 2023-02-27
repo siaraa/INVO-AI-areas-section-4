@@ -3,7 +3,14 @@
 /// For examples see Material Design color system: https://m2.material.io/design/color/the-color-system.html
 
 :root {
+// background's colors
     --mainBackgroundColor: #0F162D;
-
+    --secoundaryBackgroundColor: #272D42;
+    --thirdBackgroundColor-1: #373155;
+    --thirdBackgroundColor-2: #2C3455;
+    --thirdBackgroundColor-3: #274255;
+    --thirdBackgroundColor-4: #3D413F;
+// font's colors
     --fontPrimaryColor: #FFFFFF;
+    --fontSecoundaryColor: rgba(255, 255, 255, .5);
 }
