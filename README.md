@@ -13,7 +13,7 @@ After clone this repo you have to install node_modules:
 `npm install`
 
 To run project write in console:
-'npm run dev'
+`npm run dev`
 
 
 
