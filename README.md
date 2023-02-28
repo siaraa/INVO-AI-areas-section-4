@@ -5,8 +5,8 @@ Project realized during INVO Akademy.
 
 ## Technologies
 * HTML5
-* SCSS
-* VITE
+* SASS 1.58.0
+* VITE 4.1.0
 
 ## Setup
 After clone this repo you have to install node_modules:
@@ -14,6 +14,4 @@ After clone this repo you have to install node_modules:
 
 To run project write in console:
 `npm run dev`
-
-
 
