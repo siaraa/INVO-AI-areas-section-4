@@ -4,9 +4,9 @@ INVO-AI-areas-section-4
 Project realized during INVO Akademy. 
 
 ## Technologies
-HTML5
-SCSS
-VITE
+* HTML5
+* SCSS
+* VITE
 
 ## Setup
 After clone this repo you have to install node_modules:
